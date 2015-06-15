@@ -1,12 +1,14 @@
-# My aliases
+#### My aliases ####
 
-#Misc
+# Misc
 alias igrep='grep -i'
 alias tailf='tail -f'
+alias bed-time='sudo shutdown -h now'
 
-#Dirs aliases
-projects=$HOME/projects
+# Dirs aliases
+p=~/projects
+omz=~/.oh-my-zsh
 
 # Editing and reloading aliases
-alias add_alias='vi $HOME/.oh-my-zsh/custom/my-aliases.zsh'
-alias reload='source $HOME/.zshrc'
+alias cheat='vi ~/.oh-my-zsh/custom/aliases.zsh'
+alias reload='source ~/.zshrc'
