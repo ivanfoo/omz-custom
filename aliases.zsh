@@ -2,7 +2,7 @@
 
 # Dirs aliases
 pro=~/projects
-gopro=~/go
+gopro=~/go/src/github.com/ivanfoo
 omz=~/.oh-my-zsh
 
 # tgz shortcuts
