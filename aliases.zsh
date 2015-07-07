@@ -16,7 +16,7 @@ alias undown='rm -rf ~/Downloads/*'
 # Misc
 alias gri='grep -i'
 alias tf='tail -f'
-alias bed='sudo shutdown -h now'
+alias shut='sudo shutdown -h now'
 
 # Editing and reloading aliases
 alias cheat='vi ~/.oh-my-zsh/custom/aliases.zsh'
