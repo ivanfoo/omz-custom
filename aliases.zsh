@@ -22,6 +22,9 @@ alias shut='sudo shutdown -h now'
 alias cheat='vi ~/.oh-my-zsh/custom/aliases.zsh'
 alias docheat='source ~/.oh-my-zsh/custom/aliases.zsh'
 
+# Editing .vimrc
+alias vimrc='vi ~/.vimrc'
+
 # Editing and reloading zsh config
 alias cfg='vi ~/.zshrc'
 alias reload='source ~/.zshrc' 
