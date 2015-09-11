@@ -16,6 +16,7 @@ alias undown='rm -rf ~/Downloads/*'
 # Misc
 alias gri='grep -i'
 alias tf='tail -f'
+alias subl='sublime_text &> /dev/null &'
 alias shut='sudo shutdown -h now'
 
 # Editing and reloading aliases
