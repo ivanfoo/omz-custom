@@ -1,5 +1,5 @@
 # Ignoring examples
 example*
 
-# Ignoring work stuff
-work/*
+# Ignoring private stuff
+private/*
