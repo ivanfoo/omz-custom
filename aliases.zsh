@@ -18,6 +18,7 @@ alias gri='grep -i'
 alias tf='tail -f'
 alias subl='sublime_text &> /dev/null &'
 alias shut='sudo shutdown -h now'
+alias jostit='sudo vim /etc/hosts'
 
 # Editing and reloading aliases
 alias cheat='vi ~/.oh-my-zsh/custom/aliases.zsh'
